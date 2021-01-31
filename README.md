@@ -18,3 +18,7 @@ $ git clone https://github.com/ArroKM/Temp-Num
 $ cd Temp-Num
 $ python3 num.py
 ```
+
+<h3># NOTE :</h3>
+
+Semoga bermanfaat jangan lupa share and kasih star dong :v
