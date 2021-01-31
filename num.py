@@ -6,10 +6,12 @@ try:
 	from bs4 import BeautifulSoup as ser
 except ImportError:
 	os.system("python3 -m pip install -q bs4")
+	from bs4 import BeautifulSoup as ser
 try:
 	import requests as get
 except ImportError:
 	os.system("python3 -m pip install -q requests")
+	import requests as get
 
 class Nomor:
 	def __init__(self):
