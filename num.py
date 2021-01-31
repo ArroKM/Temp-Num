@@ -42,6 +42,7 @@ class Nomor:
 		if pil == "A" or pil == "a":
 			self.pesan(url)
 		elif pil == "B" or pil == "b":
+			os.system('cls' if os.name == 'nt' else 'clear')
 			logo()
 			tentang()
 		else:
