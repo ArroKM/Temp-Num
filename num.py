@@ -37,7 +37,7 @@ class Nomor:
 		print(" \x1b[1;92m(\x1b[1;96mB\x1b[1;92m) \x1b[1;97mTENTANG KAMI")
 		print(" \x1b[1;92m(\x1b[1;91mE\x1b[1;92m) \x1b[1;97mKELUAR")
 		print("\x1b[1;91m="*31)
-		pil = input(" \x1b[1;96mPILIH NO : \x1b[1;92m")
+		pil = input(" \x1b[1;96mPILIH : \x1b[1;92m")
 		print("\x1b[1;91m="*31)
 		if pil == "A" or pil == "a":
 			self.pesan(url)
