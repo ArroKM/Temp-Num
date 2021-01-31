@@ -80,7 +80,6 @@ def logo():
   \x1b[105m\x1b[37;1mCODED BY ASECX FROM XIUZCODE\x1b[0m''')
 
 def tentang():
-	logo()
 	print("\x1b[1;91m="*31)
 	print('''
 \x1b[1;96m AUTHOR   : \x1b[1;97mASE-XC
